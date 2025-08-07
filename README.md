@@ -13,7 +13,9 @@ A simple and elegant **BMI (Body Mass Index) Calculator** built using **Flutter*
 
 ## 📸 Screenshots
 
-> <img width="45%" height="960" style="margin:1%" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-08-07 at 21 06 59" src="https://github.com/user-attachments/assets/cfc05c06-da62-4138-8324-419a74a0b041" /> <img style="margin:1%" width="45%" height="960" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-08-07 at 21 44 34" src="https://github.com/user-attachments/assets/93a3a737-dd76-49e2-89a8-e9100e9a1004" />
+> <img width="45%" height="960" style="margin:1.5%" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-08-07 at 22 12 20" src="https://github.com/user-attachments/assets/6e499522-5905-49db-956a-90d1bde870ec" /><img width="45%" height="960" style="margin:1.5%" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-08-07 at 22 12 45" src="https://github.com/user-attachments/assets/a782a5f0-1806-4147-ab99-4ec97789739e" />
+
+
 
 
 
